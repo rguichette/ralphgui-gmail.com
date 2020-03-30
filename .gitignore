@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#files
+
+TestFiveMin.js
+ThreeContainer.js 
+threeEntryPoint.js 
+Singlescene.js
+SceneManager.js
+
